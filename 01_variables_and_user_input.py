@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Temperature conversion
 celsius = float(input("enter the temperature in celsius : "))
 fahrenheit = (celsius*9/5)+32
@@ -75,3 +76,6 @@ print("After converting to PKR: ",pkr)
 
 #---------------------------------------------------------------------------------------
  
+=======
+
+>>>>>>> 1479a391a89faa8492a3d3da2a49b37700d4dd4a
